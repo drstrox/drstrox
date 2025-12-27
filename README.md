@@ -38,6 +38,3 @@ Welcome to my GitHub profile! I’m a Computer Science and Engineering undergrad
 ---
 
 Thank you for visiting! If you’re interested in collaborating, discussing ideas, or building something impactful together — feel free to reach out.
-
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=drstrox&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
