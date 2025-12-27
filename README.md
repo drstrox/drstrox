@@ -1,5 +1,43 @@
-# 💫 About Me:
-## Hi 👋, I'm Aayush Yadav  <br><br>Welcome to my GitHub profile! I’m a Computer Science and Engineering undergraduate at **IIT Indore**, passionate about building real-world tech products at the intersection of **Software Engineering, Machine Learning, and Web3**. I enjoy shipping end-to-end systems, learning fast, and working on problems that have practical impact.<br><br>---<br><br>## 🚀 About Me  <br><br>- 🎓 **Education:** B.Tech. in Computer Science & Engineering, IIT Indore  <br>- 💡 **Interests:**  <br>  Software Development, Machine Learning, Deep Learning, Web3 & Blockchain, Quantitative Finance, Full-Stack Engineering  <br>- 🔭 **Current Focus:**  <br>  Building scalable applications, strengthening DSA and developing ML & Web3 projects that solve real problems  <br><br>---<br><br>## 🧩 Featured Projects  <br><br>### 📈 Vertex – Virtual Trading Platform  <br>- Built a **full-fledged virtual stock trading platform** with portfolio management  <br>- Features include advanced charting, stock screener, news integration, and strategy testing  <br>- Enabled users to analyze real-time and historical market data using multiple indicators  <br>- **Tech Stack:** JavaScript, Python, MySQL, Firebase  <br><br>### 🧠 Machine Learning Projects  <br>- Developed ML models using **CNNs and classical ML techniques** for image-based tasks  <br>- Worked with libraries like NumPy, Pandas, TensorFlow, and Keras  <br>- Explored model evaluation, optimization, and real-world ML pipelines  <br><br>### 🌐 Web Development & Systems  <br>- Built multiple **full-stack web applications** using modern frontend and backend tools  <br>- Created interactive UIs, authentication systems, dashboards, and APIs  <br>- Experience with deployment, integration, and performance optimization  <br><br>### 🔗 Web3 & Blockchain  <br>- Developed **smart contracts (ERC-20)** and explored on-chain systems  <br>- Worked on ideas around NFT-based ticketing and decentralized applications  <br>- Learning and experimenting with cross-chain protocols and modern blockchain tooling  <br><br>---<br><br>## 🛠 Skills & Tools  <br><br>**Programming Languages:**  <br>- Python, C++, JavaScript, SQL  <br><br>**Frameworks & Libraries:**  <br>- React, Node.js, TensorFlow, NumPy, Pandas  <br><br>**Databases & Backend:**  <br>- MySQL, Firebase  <br><br>**Domains:**  <br>- Software Engineering  <br>- Web Development  <br>- Blockchain & Web3  <br><br>---<br><br>## 🤝 Let’s Connect  <br><br>- 💼 **LinkedIn:** https://www.linkedin.com/in/aayush-yadav-7a0b40282/  <br>- 🧑‍💻 **GitHub:** You’re already here! 🎉  <br><br>If you’re interested in collaborating, discussing ideas, or building something impactful together — feel free to reach out.  <br>Thanks for stopping by! 🚀<br>
+<h1 align="center">Hi 👋, I'm Aayush Yadav</h1>
+
+Welcome to my GitHub profile! I’m a Computer Science and Engineering undergraduate at IIT Indore, passionate about building real-world tech products at the intersection of Software Engineering, Machine Learning, and Web3.
+
+---
+
+## About Me
+- *Current Education*: B.Tech. in Computer Science & Engineering at IIT Indore  
+- *Interests*: Software Development, Web3 & Blockchain, Machine Learning, Quantitative Finance, Full-Stack Engineering
+- *Current Focus*: Building scalable applications, strengthening DSA and developing ML & Web3 projects that solve real problems
+
+---
+
+## Featured Projects
+
+### [Vertex – Virtual Trading Platform](https://github.com/vansh2052/Vertex-Paper-trading-lab)
+- Developed a trading platform processing 4000+ stocks with live order execution and secure user authentication
+- Features include advanced charting, stock screener, news integration, and strategy testing
+- Enabled users to analyze real-time and historical market data using multiple indicators
+
+### [Stratos: AI Quant DeFi Trader](https://github.com/foundryUp/Stratos)
+–  NLP-driven DeFi chatbot with autonomous agent execution for token swaps, lending, and quant strategies
+– Deployed Solidity smart contracts and developed backend infrastructure integrated with Python-based trading algorithms.
+
+---
+
+## Skills and Tools
+- *Programming*: Python, C++, JavaScript, SQL
+- *Frameworks & Libraries*: React.js, Node.js, Next.js, Tailwind CSS, Firebase, Clerk
+- *Databases & Backend*: Firebase, PostgreSQL, MySQL, SQLite, Supabase 
+
+---
+
+## Let's Connect
+- *LinkedIn*: [Aayush Yadav](https://www.linkedin.com/in/aayush-yadav-7a0b40282/)  
+- *GitHub*: You're already here! 🎉
+
+---
+
+Thank you for visiting! If you’re interested in collaborating, discussing ideas, or building something impactful together — feel free to reach out.
 
 
 ## 🌐 Socials:
