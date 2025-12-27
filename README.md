@@ -19,8 +19,8 @@ Welcome to my GitHub profile! I’m a Computer Science and Engineering undergrad
 - Enabled users to analyze real-time and historical market data using multiple indicators
 
 ### [Stratos: AI Quant DeFi Trader](https://github.com/foundryUp/Stratos)
-–  NLP-driven DeFi chatbot with autonomous agent execution for token swaps, lending, and quant strategies
-– Deployed Solidity smart contracts and developed backend infrastructure integrated with Python-based trading algorithms.
+- NLP-driven DeFi chatbot with autonomous agent execution for token swaps, lending, and quant strategies
+- Deployed Solidity smart contracts and developed backend infrastructure integrated with Python-based trading algorithms.
 
 ---
 
